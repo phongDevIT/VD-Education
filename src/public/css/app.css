@@ -1,0 +1,16 @@
+.card-course-item {
+  margin-top: 16px;
+  border-radius: 15px; }
+
+.user-avatar {
+  margin-right: 8px; }
+
+.card-course-item img {
+  height: 250px;
+  width: 350px; }
+
+.level {
+  list-style: none; }
+
+.btn-primary {
+  border-radius: 5px; }
